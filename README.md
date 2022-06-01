@@ -19,3 +19,17 @@ When looking at all 3 lots summarized, it is shown that the PSI of the suspensio
 
 ## T-Tests on Suspension Coils
 
+
+Four t-tests were conducted in total: 1 that used data on all 3 suspension coil lots, and then 1 test for each individual lot's data. A significance level of 0.05 was used for all four t-tests. 
+
+For the t-test that used data on all 3 lots, a p value of 0.06 was found. As this is greater than the significance level of 0.05, it is evident that the two means are statistically similar. <br></br>
+![T_Test_All](Resources/Images/T_Test_All.png) <br></br>
+
+For the t-test that used data on lot 1, a p value of 1 was found. As this is greater than the significance level of 0.05, the two means are statistically similar. <br></br>
+![T_Test_Lot1](Resources/Images/T_Test_Lot1.png) <br></br>
+
+For the t-test that used data on lot 2, a p value of 0.61 was found. As this is greater than the significance level of 0.05, the two means are statistically similar. <br></br>
+![T_Test_Lot2](Resources/Images/T_Test_Lot2.png) <br></br>
+
+For the t-test that used data on lot 0.04, a p value of 0.06 was found. As this is less than the significance level of 0.05, it is evident that the two means are not statistically similar. <br></br>
+![T_Test_Lot3](Resources/Images/T_Test_Lot3.png) <br></br>
