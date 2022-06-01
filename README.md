@@ -7,3 +7,7 @@
 - Based on the multiple R-squared (about 71.5%), the linear model predicts mpg of MechaCar prototypes effectively.
 
 ![Linear_Regression](Resources/Images/Linear_Regression.png)
+
+
+## Summary Statistics on Suspension Coils
+
