@@ -3,7 +3,7 @@
 ## Linear Regression to Predict MPG
 
 - There is a non-random amount of variance within the following: vehicle_weight, vehicle_length, and ground clearance.
-- THe slope of the linear regression is not zero because the p-value is equal to 5.35 x 10^(-11), which is less than the 0.05% significance level.
+- The slope of the linear regression is not zero because the p-value is equal to 5.35 x 10^(-11), which is less than the 0.05% significance level.
 - Based on the multiple R-squared (about 71.5%), the linear model predicts mpg of MechaCar prototypes effectively.
 
 ![Linear_Regression](Resources/Images/Linear_Regression.png)
@@ -19,7 +19,7 @@ When looking at all 3 lots summarized, it is shown that the PSI of the suspensio
 
 ## T-Tests on Suspension Coils
 
-Four t-tests were conducted in total: 1 that used data on all 3 suspension coil lots, and then 1 test for each individual lot's data. A significance level of 0.05 was used for all four t-tests. 
+Four t-tests were conducted in total: 1 that used data on all three suspension coil lots, and then 1 test for each individual lot's data. A significance level of 0.05 was used for all four t-tests. 
 
 For the t-test that used data on all 3 lots, a p value of 0.06 was found. As this is greater than the significance level of 0.05, it is evident that the two means are statistically similar. <br></br>
 ![T_Test_All](Resources/Images/T_Test_All.png) <br></br>
